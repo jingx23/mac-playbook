@@ -6,6 +6,7 @@ brew_cask_apps:
   - cyberduck
   - tunnelblick
   - visual-studio-code
+  - libreoffice
 
 brew_apps:
   - dockutil
